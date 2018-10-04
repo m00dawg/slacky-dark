@@ -1,4 +1,4 @@
-body { background: #555; color: #e6e6e6; }
+body { background: #222; color: #e6e6e6; }
 
 a { color: #949494; }
 
@@ -840,9 +840,9 @@ div#c-search_autcomplete__suggestion_item { color: #e6e6e6; }
 
 .channel_header .blue_on_hover:hover { color: #e6e6e6; }
 
-#client_body:not(.onboarding)::before { background: #222; border-bottom: 1px solid #363636; box-shadow: inset 1px 0 0 0 #222; }
+#client_body:not(.onboarding)::before { background: #555; border-bottom: 1px solid #363636; box-shadow: inset 1px 0 0 0 #222; }
 
-#client_body:not(.onboarding):not(.feature_global_nav_layout):before { background: #222222; position: fixed; }
+#client_body:not(.onboarding):not(.feature_global_nav_layout):before { background: #555555; position: fixed; }
 
 .messages_header { color: #e6e6e6; }
 
